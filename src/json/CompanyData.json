@@ -1,0 +1,73 @@
+[
+    {
+        "name":"10up",
+        "website":"https://10up.com",
+        "region":"Worldwide"
+    },
+    {
+        "name":"15Five",
+        "website":"https://www.15five.com",
+        "region":"Europe, Americas"
+    },
+    {
+        "name":"17hats",
+        "website":"https://www.17hats.com",
+        "region":"Worldwide"
+    },
+    {
+        "name":"18F",
+        "website":"https://18f.gsa.gov",
+        "region":"USA"
+    },
+    {
+        "name":"1Password",
+        "website":"1password.com",
+        "region":"North America, UK"
+    },
+    {
+        "name":"3Blocks",
+        "website":"https://3blocks.io",
+        "region":"Worldwide"
+    },
+    {
+        "name":"42 Technologies",
+        "website":"https://www.42technologies.com",
+        "region":"Worldwide"
+    },
+    {
+        "name":"abiturma",
+        "website":"https://abiturma.de",
+        "region":"Germany"
+    },
+    {
+        "name":"Ably",
+        "website":"https://ably.com",
+        "region":"Europe"
+    },
+    {
+        "name":"Abstract API",
+        "website":"https://www.abstractapi.com",
+        "region":"Worldwide"
+    },
+    {
+        "name":"acct",
+        "website":"https://acct.global",
+        "region":"Worldwide"
+    },
+    {
+        "name":"Acivilate",
+        "website":"https://acivilate.com",
+        "region":"USA"
+    },
+    {
+        "name":"Acquia",
+        "website":"https://www.acquia.com",
+        "region":"Worldwide"
+    },
+    {
+        "name":"ActiveCampaign",
+        "website":"https://www.activecampaign.com",
+        "region":"Dublin, Ireland; USA"
+    }
+
+]
