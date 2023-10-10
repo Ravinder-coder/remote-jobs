@@ -1,73 +1,1022 @@
 [
-    {
-        "name":"10up",
-        "website":"https://10up.com",
-        "region":"Worldwide"
-    },
-    {
-        "name":"15Five",
-        "website":"https://www.15five.com",
-        "region":"Europe, Americas"
-    },
-    {
-        "name":"17hats",
-        "website":"https://www.17hats.com",
-        "region":"Worldwide"
-    },
-    {
-        "name":"18F",
-        "website":"https://18f.gsa.gov",
-        "region":"USA"
-    },
-    {
-        "name":"1Password",
-        "website":"1password.com",
-        "region":"North America, UK"
-    },
-    {
-        "name":"3Blocks",
-        "website":"https://3blocks.io",
-        "region":"Worldwide"
-    },
-    {
-        "name":"42 Technologies",
-        "website":"https://www.42technologies.com",
-        "region":"Worldwide"
-    },
-    {
-        "name":"abiturma",
-        "website":"https://abiturma.de",
-        "region":"Germany"
-    },
-    {
-        "name":"Ably",
-        "website":"https://ably.com",
-        "region":"Europe"
-    },
-    {
-        "name":"Abstract API",
-        "website":"https://www.abstractapi.com",
-        "region":"Worldwide"
-    },
-    {
-        "name":"acct",
-        "website":"https://acct.global",
-        "region":"Worldwide"
-    },
-    {
-        "name":"Acivilate",
-        "website":"https://acivilate.com",
-        "region":"USA"
-    },
-    {
-        "name":"Acquia",
-        "website":"https://www.acquia.com",
-        "region":"Worldwide"
-    },
-    {
-        "name":"ActiveCampaign",
-        "website":"https://www.activecampaign.com",
-        "region":"Dublin, Ireland; USA"
-    }
+  {
+    "name": "10up",
+    "website": "https://10up.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "15Five",
+    "website": "https://www.15five.com",
+    "region": "Europe, Americas"
+  },
+  {
+    "name": "17hats",
+    "website": "https://www.17hats.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "18F",
+    "website": "https://18f.gsa.gov",
+    "region": "USA"
+  },
+  {
+    "name": "1Password",
+    "website": "1password.com",
+    "region": "North America, UK"
+  },
+  {
+    "name": "3Blocks",
+    "website": "https://3blocks.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "42 Technologies",
+    "website": "https://www.42technologies.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "abiturma",
+    "website": "https://abiturma.de",
+    "region": "Germany"
+  },
+  {
+    "name": "Ably",
+    "website": "https://ably.com",
+    "region": "Europe"
+  },
+  {
+    "name": "Abstract API",
+    "website": "https://www.abstractapi.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "acct",
+    "website": "https://acct.global",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Acivilate",
+    "website": "https://acivilate.com",
+    "region": "USA"
+  },
+  {
+    "name": "Acquia",
+    "website": "https://www.acquia.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ActiveCampaign",
+    "website": "https://www.activecampaign.com",
+    "region": "Dublin, Ireland; USA"
+  },
+  {
+    "name": "Ad Hoc",
+    "website": "https://www.adhocteam.us/",
+    "region": "USA"
+  },
+  {
+    "name": "Adaface",
+    "website": "https://www.adaface.com/",
+    "region": "Asia"
+  },
+  {
+    "name": "AddStructure",
+    "website": "https://www.bazaarvoice.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Adeva",
+    "website": "https://adevait.com/",
+    "region": "Asia, Africa, Europe, South America, United States"
+  },
+  {
+    "name": "Adzuna",
+    "website": "https://www.adzuna.co.uk/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "AE Studio",
+    "website": "https://ae.studio/",
+    "region": "USA, BR"
+  },
+  {
+    "name": "Aerolab",
+    "website": "https://aerolab.co/",
+    "region": "Latin America"
+  },
+  {
+    "name": "Aerostrat",
+    "website": "https://aerostratsoftware.com/",
+    "region": "USA"
+  },
+  {
+    "name": "AgFlow",
+    "website": "https://www.agflow.com/",
+    "region": "Europe"
+  },
+  {
+    "name": "Aha!",
+    "website": "https://www.aha.io/",
+    "region": "North America, South America, United Kingdom, Ireland, Australia, South Africa"
+  },
+  {
+    "name": "Aim India",
+    "website": "https://www.aimincorp.com/",
+    "region": "India"
+  },
+  {
+    "name": "Airbyte",
+    "website": "https://airbyte.com/",
+    "region": "Europe, North America, Latin America"
+  },
+  {
+    "name": "AirGarage",
+    "website": "https://www.airgarage.com/",
+    "region": "USA"
+  },
+  {
+    "name": "AirTreks",
+    "website": "https://www.airtreks.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Aivitex",
+    "website": "https://aivitex.com/",
+    "region": "Germany"
+  },
+  {
+    "name": "Alami",
+    "website": "https://alamisharia.co.id/en/",
+    "region": "Indonesia"
+  },
+  {
+    "name": "Alan",
+    "website": "https://alan.com/",
+    "region": "Europe"
+  },
+  {
+    "name": "Algorand",
+    "website": "https://www.algorand.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Algorithmia",
+    "website": "https://algorithmia.com/",
+    "region": "North America"
+  },
+  {
+    "name": "ALICE",
+    "website": "https://aliceplatform.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Alight Solutions",
+    "website": "https://alight.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Alley",
+    "website": "https://alley.co/",
+    "region": "USA, Canada, Western Europe"
+  },
+  {
+    "name": "allyDVM",
+    "website": "https://www.allydvm.com/",
+    "region": "USA"
+  },
+  {
+    "name": "AlphaSights",
+    "website": "https://engineering.alphasights.com/",
+    "region": "USA, UK, (EST, GMT)"
+  },
+  {
+    "name": "Amazon",
+    "website": "https://www.amazon.jobs/en/locations/virtual-locations",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Ambaum",
+    "website": "https://ambaum.com/",
+    "region": "USA, Europe"
+  },
+  {
+    "name": "Andela",
+    "website": "https://andela.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Animalz",
+    "website": "https://remoteintech.company/animalz/",
+    "region": "USA"
+  },
+  {
+    "name": "Annertech",
+    "website": "https://www.annertech.com/",
+    "region": "Ireland"
+  },
+  {
+    "name": "Anomali",
+    "website": "https://www.anomali.com/company/careers",
+    "region": "USA, UK, Singapore"
+  },
+  {
+    "name": "apartment therapy",
+    "website": "http://www.apartmenttherapy.com/",
+    "region": "USA"
+  },{
+    "name": "Appinio",
+    "website": "https://appinio.com/",
+    "region": "Europe"
+  },
+  {
+    "name": "Appstractor Corporation",
+    "website": "https://www.appstractor.com/",
+    "region": "USA, UK, Israel"
+  },
+  {
+    "name": "Appwrite",
+    "website": "https://appwrite.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "argyle",
+    "website": "https://argyle.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ARK",
+    "website": "https://www.ark.io/careers",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Art & Logic",
+    "website": "https://artandlogic.com/",
+    "region": "USA, Canada"
+  },
+  {
+    "name": "Artefactual Systems",
+    "website": "https://www.artefactual.com/",
+    "region": "UTC-8 to UTC+2"
+  },
+  {
+    "name": "Articulate",
+    "website": "https://www.articulate.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Astronomer",
+    "website": "https://www.astronomer.io/",
+    "region": "USA"
+  },
+  {
+    "name": "Atento",
+    "website": "https://atento.gupy.io/",
+    "region": "Brazil, Mexico and EMEA"
+  },
+  {
+    "name": "Atlassian",
+    "website": "https://www.atlassian.com/",
+    "region": "USA, Europe, Asia, Australia"
+  },
+  {
+    "name": "Audiense",
+    "website": "https://www.audiense.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Aula Education",
+    "website": "https://aula.education/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Auth0",
+    "website": "https://auth0.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Automattic",
+    "website": "https://automattic.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Axelerant",
+    "website": "https://axelerant.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Axios",
+    "website": "https://axios.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Bairesdev",
+    "website": "https://bairesdev.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Balena",
+    "website": "https://www.balena.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Balsamiq",
+    "website": "https://balsamiq.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bandcamp",
+    "website": "https://bandcamp.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "BandLab",
+    "website": "https://bandlab.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bandzoogle",
+    "website": "https://bandzoogle.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Baremetrics",
+    "website": "https://baremetrics.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Basecamp",
+    "website": "https://basecamp.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bear Group",
+    "website": "https://www.beargroup.com/",
+    "region": "USA"
+  },
+  {
+    "name": "BeBanjo",
+    "website": "BeBanjo",
+    "region": "Worldwide"
+  },
+  {
+    "name": "BeenVerified",
+    "website": "https://www.beenverified.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Best Practical Solutions",
+    "website": "https://bestpractical.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Betable",
+    "website": "https://corp.betable.com/",
+    "region": "USA, Europe"
+  },
+  {
+    "name": "BetaPeak",
+    "website": "https://betapeak.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "BetterUp",
+    "website": "https://www.betterup.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Beyond Company",
+    "website": "Beyond Company",
+    "region": "Brazil"
+  },
+  {
+    "name": "BeyondPricing",
+    "website": "https://beyondpricing.com/",
+    "region": "USA, Europe"
+  },
+  {
+    "name": "BharatPe",
+    "website": "https://www.bharatpe.com/",
+    "region": "India"
+  },
+  {
+    "name": "Big Cartel",
+    "website": "https://www.bigcartel.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Bill",
+    "website": "https://www.bill.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Bit Zesty",
+    "website": "https://bitzesty.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bitnami",
+    "website": "https://bitnami.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bitovi",
+    "website": "https://bitovi.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bizink",
+    "website": "https://bizinkonline.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Blameless",
+    "website": "Blameless",
+    "region": "North America"
+  },
+  {
+    "name": "Bloc",
+    "website": "https://www.bloc.io/",
+    "region": "North America"
+  },
+  {
+    "name": "BlueCat Networks",
+    "website": "https://www.bloc.io/",
+    "region": "North America"
+  },
+  {
+    "name": "Bluespark",
+    "website": "https://www.bluespark.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Boldare",
+    "website": "https://boldare.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bonsai",
+    "website": "https://www.hellobonsai.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bounteous",
+    "website": "https://bounteous.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Brainstorm Force",
+    "website": "https://brainstormforce.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bright Funds",
+    "website": "https://www.brightfunds.org/",
+    "region": "USA"
+  },
+  {
+    "name": "Brikl",
+    "website": "https://www.brikl.com/",
+    "region": "North America, Asia"
+  },
+  {
+    "name": "BriteCore",
+    "website": "https://britecore.com/",
+    "region": "USA, Worldwide"
+  },
+  {
+    "name": "Broadwing",
+    "website": "https://www.broadwing.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Buffer",
+    "website": "https://buffer.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bugfender",
+    "website": "https://bugfender.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "BuySellAds",
+    "website": "https://www.buysellads.com/",
+    "region": "Worldwide"
+  },
+  {
 
+    "name": "Cabify",
+    "website": "https://cabify.com/",
+    "region": "Spain"
+  },
+  {
+    "name": "Calamari",
+    "website": "https://calamari.io/",
+    "region": "Poland"
+  },
+  {
+    "name": "Calibre",
+    "website": "https://calibreapp.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CANCOM",
+    "website": "https://www.canonical.com/",
+    "region": "Germany, Austria, Slovakia"
+  },
+  {
+    "name": "Canonical",
+    "website": "https://www.canonical.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Capchase",
+    "website": "https://www.capchase.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Capgemini",
+    "website": "https://www.capgemini.com/us-en/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Capital One",
+    "website": "https://www.capitalonecareers.com/tech",
+    "region": "USA"
+  },
+  {
+    "name": "Carbon Black",
+    "website": "https://cardsagainsthumanity.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Cards Against Humanity",
+    "website": "https://cardsagainsthumanity.com/",
+    "region": "USA"
+  },
+  {
+    "name": "CareCru",
+    "website": "https://carecru.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CareMessage",
+    "website": "https://caremessage.org/careers/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CartoDB",
+    "website": "https://cartodb.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CartStack",
+    "website": "https://www.cartstack.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Casumo",
+    "website": "https://www.casumo.com/",
+    "region": "Europe"
+  },
+  {
+    "name": "Celsius",
+    "website": "https://celsius.network/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ChainLink Labs",
+    "website": "https://chainlinklabs.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Chargify",
+    "website": "https://www.chargify.com/",
+    "region": "USA"
+  },
+  {
+    "name": "charity: water",
+    "website": "https://www.charitywater.org/",
+    "region": "USA"
+  },
+  {
+    "name": "ChatGen",
+    "website": "https://chatgen.ai/ ",
+    "region": "India, USA"
+  },
+  {
+    "name": "Checkly",
+    "website": "https://www.checklyhq.com/",
+    "region": "Europe (CET -3 / CET +3) "
+  },
+  {
+    "name": "Chef",
+    "website": "https://www.chef.io/",
+    "region": "USA, UK  "
+  },
+  {
+    "name": "ChefsClub",
+    "website": "https://www.chefsclub.com.br/",
+    "region": "Brazil"
+  },
+  {
+    "name": "Chess",
+    "website": "https://www.chess.com/jobs/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Chroma",
+    "website": "https://hichroma.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CircleCI",
+    "website": "https://circleci.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Circonus",
+    "website": "https://circonus.com/",
+    "region": "USA"
+  },
+  {
+    "name": "CivicActions",
+    "website": "https://civicactions.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Civo",
+    "website": "https://www.civo.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Clevertech",
+    "website": "https://clevertech.biz/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ClickUp",
+    "website": "https://clickup.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Clootrack",
+    "website": "https://www.clootrack.com/",
+    "region": "India"
+  },
+  {
+    "name": "Close",
+    "website": "https://close.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CloudApp",
+    "website": "https://getcloudapp.com/",
+    "region": "North America"
+  },
+  {
+    "name": "Coalition Technologies",
+    "website": "https://coalitiontechnologies.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Code Like a Girl",
+    "website": "https://codelikeagirl.com/",
+    "region": "Australia"
+  },
+  {
+    "name": "Codea IT",
+    "website": "https://www.codeait.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CodePen",
+    "website": "https://codepen.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CodeSandbox",
+    "website": "https://codesandbox.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Codeship",
+    "website": "https://codeship.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Codestunts",
+    "website": "https://codestunts.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Cofense",
+    "website": "https://cofense.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Coforma",
+    "website": "https://coforma.io/",
+    "region": "USA"
+  },
+  {
+    "name": "Coinbase",
+    "website": "https://www.coinbase.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Coingape",
+    "website": "https://coingape.com/",
+    "region": "India"
+  },
+  {
+    "name": "Collabora",
+    "website": "https://www.collabora.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Comet",
+    "website": "https://www.comet.co/",
+    "region": "France"
+  },
+  {
+    "name": "Compose",
+    "website": "https://www.compose.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Compucorp",
+    "website": "https://www.compucorp.co.uk/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Connexa",
+    "website": "https://www.connexa.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ConsenSys",
+    "website": "https://consensys.net/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Consumer Financial Protection Bureau",
+    "website": "https://www.consumerfinance.gov/",
+    "region": "USA"
+  },
+  {
+    "name": "Continu",
+    "website": "https://www.continu.co/",
+    "region": "USA"
+  },
+  {
+    "name": "Conversio",
+    "website": "https://www.convert.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Convert",
+    "website": "https://www.convert.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Coodesh",
+    "website": "https://coodesh.com/",
+    "region": "Brazil"
+  },
+  {
+    "name": "Core-Apps",
+    "website": "https://www.core-apps.com/",
+    "region": "USA"
+  },
+  {
+    "name": "CoreOS",
+    "website": "https://coreos.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Corgibytes",
+    "website": "https://corgibytes.com/",
+    "region": "USA East Coast"
+  },
+  {
+    "name": "Cosmic Chimps",
+    "website": "https://www.cosmic-chimps.com/",
+    "region": "Spain, México"
+  },
+  {
+    "name": "Coursera",
+    "website": "https://www.coursera.org/",
+    "region": "USA, Canada"
+  },
+  {
+    "name": "Crossover",
+    "website": "https://www.crossover.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Crowdstrike",
+    "website": "https://www.crowdstrike.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CrowdTangle",
+    "website": "https://crowdtangle.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Cueup",
+    "website": "https://cueup.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Customer.io",
+    "website": "https://customer.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Cuvette",
+    "website": "https://cuvette.tech/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CVS Health",
+    "website": "https://jobs.cvshealth.com/",
+    "region": "USA"
+  },
+  {
+    "name": "CWT",
+    "website": "https://www.mycwt.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Cyber Whale",
+    "website": "https://cyberwhale.tech/",
+    "region": "Europe"
+  },
+  {
+    "name": "Dalenys",
+    "website": "https://dalenys.com/",
+    "region": ""
+  },
+  {
+    "name": "DappRadar",
+    "website": "https://dappradar.com/",
+    "region": "Europe"
+  },
+  {
+    "name": "DareCode",
+    "website": "https://darecode.com/",
+    "region": "Europe"
+  },
+  {
+    "name": "DashboardHub",
+    "website": "https://dashboardhub.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Dashlane",
+    "website": "https://dalenys.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Data Science Brigade",
+    "website": "https://dsbrigade.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Data Science Dojo",
+    "website": "https://datasciencedojo.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DataCamp",
+    "website": "https://www.datacamp.com/",
+    "region": "Europe or comparable timezone"
+  },
+  {
+    "name": "Datadog",
+    "website": "https://www.datadoghq.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DataStax",
+    "website": "https://www.datastax.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Datica",
+    "website": "https://datica.com/",
+    "region": "USA"
+  },
+  {
+    "name": "DealDash",
+    "website": "http://www.dealdash.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Deel",
+    "website": "http://www.deel.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Delighted",
+    "website": "https://delighted.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Designcode",
+    "website": "https://designcode.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Deskpass",
+    "website": "https://www.deskpass.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Dev Spotlight",
+    "website": "https://devsquad.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Devsquad",
+    "website": "https://devsquad.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Dgraph",
+    "website": "https://dgraph.io/",
+    "region": "Americas"
+  },
+  {
+    "name": "DigitalOcean",
+    "website": "https://www.digitalocean.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Digitise",
+    "website": "https://jobs.gohire.io/digitise-xwcfqaab/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Discord",
+    "website": "https://discord.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Discourse",
+    "website": "https://www.discourse.org/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DNSimple",
+    "website": "https://dnsimple.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Docker",
+    "website": "https://www.docker.com/",
+    "region": "USA"
+  },
+  {
+    "name": "Doist",
+    "website": "https://doit.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Doit",
+    "website": "https://doit.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Donut App",
+    "website": "https://www.donut.app/",
+    "region": "USA, EU"
+  },
+  {
+    "name": "DroneDeploy",
+    "website": "https://www.dronedeploy.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Dropbox",
+    "website": "https://www.dropbox.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Drupal Jedi",
+    "website": "https://drupaljedi.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DuckDuckGo",
+    "website": "https://duckduckgo.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DynaPictures",
+    "website": "https://dynapictures.com/",
+    "region": "Worldwide"
+  }
 ]
